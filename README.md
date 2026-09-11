@@ -11,4 +11,4 @@ This repository provides the data and R code to reproduce the analyses from: Car
 ## Code Folder Description
 1. The file `Mammal_Fungi_Community_Composition.R` runs the code for the fungal perMANOVA analysis and the fungal differential abundance analysis between the skin and gut microbiome. It also runs the NMDS figure.
    
-2. The file `Mammal_Fungi_Richness_Diversity.R` runs the code for the observed fungal richness and diversity. It also plots these observations in ggplot2 by individual small mammal.
+2. The file `Mammal_Fungi_Richness_Diversity.R` runs the code for the observed fungal richness and diversity between the skin and gut microbiome. It also plots these observations in ggplot2 by individual small mammal.
