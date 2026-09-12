@@ -1,0 +1,19 @@
+Variable,Definition
+Taxonomy,Full taxonomic ranking available (hierarchial levels separated by semicolons)
+k,Kingdom
+p,Phylum
+c,Class
+o,Order
+f,Family
+g,Genus
+s,Species
+RE-HU_8_SCAT,"Total number of Fungi OTU reads for the Reithrodontomys humulis individual (tag ID = 8) scat sample, representative of the gut microbiome"
+NE-FL_NA_1_SCAT,"Total number of Fungi OTU reads for the Neotoma floridana individual scat sample, representative of the gut microbiome"
+PE-PO_11_SCAT,"Total number of Fungi OTU reads for the Peromyscus polionotus individual (tag ID = 11) scat sample, representative of the gut microbiome"
+PE-PO_11_R_SCAT,"Total number of Fungi OTU reads for the Peromyscus polionotus individual (tag ID = 11) subsequent recapture scat sample, representative of the gut microbiome"
+PE-PO_26_SCAT,"Total number of Fungi OTU reads for the Peromyscus polionotus individual (tag ID = 26) scat sample, representative of the gut microbiome"
+RE-HU_8_SWAB,"Total number of Fungi OTU reads for the Reithrodontomys humulis individual (tag ID = 8) swab sample, representative of the skin microbiome"
+NE-FL_NA_1_SWAB,"Total number of Fungi OTU reads for the Neotoma floridana individual swab sample, representative of the skin microbiome"
+PE-PO_11_SWAB,"Total number of Fungi OTU reads for the Peromyscus polionotus individual (tag ID = 11) swab sample, representative of the skin microbiome"
+PE-PO_11_R_SWAB,"Total number of Fungi OTU reads for the Peromyscus polionotus individual (tag ID = 11) subsequent recapture swab sample, representative of the skin microbiome"
+PE-PO_26_SWAB,"Total number of Fungi OTU reads for the Peromyscus polionotus individual (tag ID = 26) swab sample, representative of the skin microbiome"
