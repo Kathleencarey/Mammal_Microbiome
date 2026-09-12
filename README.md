@@ -4,7 +4,7 @@ This repository provides the data and R code to reproduce the analyses from: Car
 ## Data Folder Description 
 1. The dataset `Bacteria_Reads.csv` contains data on the number of bacterial taxa reads for each small mammal microbiome sample, with the full taxonomic ranking available. Data was obtained from Zymo Research. This dataset was used for the bacterial perMANOVA analysis, bacterial differential abundance analysis, and the bacterial observed richness and diveristy comparison between the bacterial skin and gut microbiome.
 
-2. The dataset `Fungi_Reads.csv` contains data on the number of fungal taxa reads for each small mammal microbiome sample, with the full taxonomic ranking available. Data was obtained from Zymo Research. This dataset was used for the fungal perMANOVA analysis, fungal differential abundance analysis, and the fungal observed richness and diveristy comparison between the bacterial skin and gut microbiome.
+2. The dataset `Fungi_Reads.csv` contains data on the number of fungal taxa reads for each small mammal microbiome sample, with the full taxonomic ranking available. Data was obtained from Zymo Research. This dataset was used for the fungal perMANOVA analysis, fungal differential abundance analysis, and the fungal observed richness and diveristy comparison between the fungal skin and gut microbiome.
 
 3. The dataset `Mammal_Capture_Data.csv` contains information on each skin and gut microbiome sample collected and was used in all analyses. 
 
